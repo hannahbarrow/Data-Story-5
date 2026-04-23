@@ -103,7 +103,7 @@ ui <- fluidPage(
 server <- function(input, output) {
   
   rv <- reactiveValues()
-  #rv$mr <- read.csv('tree_data.csv', header = TRUE)
+  rv$mr <- read.csv('tree_data.csv', header = TRUE)
   
   # Save button ================================================================
   observeEvent(input$save, {
@@ -111,7 +111,7 @@ server <- function(input, output) {
                  input$size_class, input$distance, input$dbh, input$species, 
                  input$comments)
     log_line(newdata)
-    #rv$mr <- read.csv('tree_data.csv', header = TRUE)
+    rv$mr <- read.csv('tree_data.csv', header = TRUE)
     showNotification("Save successful!")
   })
   #=============================================================================
