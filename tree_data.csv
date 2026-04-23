@@ -1,0 +1,97 @@
+site,point,basal_area,quadrant,size_class,distance,dbh,species,comments
+control forest,1,140,NE,small,4.5,6,hickory,n/a
+control forest,1,140,NE,large,1.9,24.6,chestnut oak,n/a
+control forest,1,140,SE,small,16.7,6.2,blackgum,n/a
+control forest,1,140,SE,large,4.4,34.9,chestnut oak,n/a
+control forest,1,140,SW,small,5.4,6.9,red maple,n/a
+control forest,1,140,SW,large,1.7,22.1,chestnut oak,n/a
+control forest,1,140,NW,small,5,6.9,blackgum,n/a
+control forest,1,140,NW,large,4.9,20.9,chestnut oak,n/a
+control forest,2,130,NE,small,10.1,6.6,red maple,n/a
+control forest,2,130,NE,large,6.2,14.9,tulip poplar,n/a
+control forest,2,130,SE,small,7.8,9.9,sourwood,n/a
+control forest,2,130,SE,large,1.8,17,white oak,n/a
+control forest,2,130,SW,small,4.1,7.1,sourwood,n/a
+control forest,2,130,SW,large,8.5,35.8,hickory,n/a
+control forest,2,130,NW,small,11.5,6.3,blackgum,n/a
+control forest,2,130,NW,large,2.5,41.5,white oak,n/a
+control forest,3,130,NE,small,5.6,9.2,sourwood,n/a
+control forest,3,130,NE,large,8.6,31.4,white oak,n/a
+control forest,3,130,SE,small,2.8,6.3,sourwood,n/a
+control forest,3,130,SE,large,4.1,17.2,red maple,n/a
+control forest,3,130,SW,small,8.4,5.3,blackgum,n/a
+control forest,3,130,SW,large,3.1,27.6,hickory,n/a
+control forest,3,130,NW,small,13.7,6.7,sourwood,n/a
+control forest,3,130,NW,large,2.2,28.6,white oak,n/a
+control forest,4,140,NE,small,2.2,4.6,red maple,n/a
+control forest,4,140,NE,large,2.1,18.5,sourwood,n/a
+control forest,4,140,SE,small,6.1,9.6,blackgum,n/a
+control forest,4,140,SE,large,4.7,34.6,scarlet oak,n/a
+control forest,4,140,SW,small,3.3,8.7,white oak,n/a
+control forest,4,140,SW,large,5.6,18.5,white oak,n/a
+control forest,4,140,NW,small,9.3,6.9,white oak,n/a
+control forest,4,140,NW,large,4.6,34.5,white oak,n/a
+OSS dump,1,130,NE,small,6.5,8.6,red maple,n/a
+OSS dump,1,130,NE,large,2.2,77.5,chestnut oak,n/a
+OSS dump,1,130,SE,small,11.5,6.5,red maple,n/a
+OSS dump,1,130,SE,large,1.45,11.3,red maple,n/a
+OSS dump,1,130,SW,small,2.82,6.5,red maple,n/a
+OSS dump,1,130,SW,large,6.55,15.9,hickory,n/a
+OSS dump,1,130,NW,small,8.58,7.4,red maple,n/a
+OSS dump,1,130,NW,large,5.1,18.2,sourwood,n/a
+OSS dump,3,110,NE,small,1.6,6.5,red maple,n/a
+OSS dump,3,110,NE,large,6.6,15.8,hickory,n/a
+OSS dump,3,110,SE,small,2.95,5.6,red maple,n/a
+OSS dump,3,110,SE,large,6.8,16.9,blackgum,n/a
+OSS dump,3,110,SW,small,3.6,6,red maple,n/a
+OSS dump,3,110,SW,large,2.3,61.9,white oak,n/a
+OSS dump,3,110,NW,small,1.85,9.3,red maple,n/a
+OSS dump,3,110,NW,large,1.8,67.5,scarlet oak,n/a
+OSS dump,5,110,NE,small,7.35,7.9,red maple,n/a
+OSS dump,5,110,NE,large,1.05,59.2,chestnut oak,n/a
+OSS dump,5,110,SE,small,3.5,8.5,red maple,n/a
+OSS dump,5,110,SE,large,4.95,35.2,chestnut oak,n/a
+OSS dump,5,110,SW,small,3.25,5.1,red maple,n/a
+OSS dump,5,110,SW,large,7.2,15,chestnut oak,n/a
+OSS dump,5,110,NW,small,6.55,9.7,red maple,n/a
+OSS dump,5,110,NW,large,6.85,11.7,dogwood,n/a
+OSS dump,7,110,NE,small,8.6,5.3,blackgum,n/a
+OSS dump,7,110,NE,large,6.1,15.3,blackgum,n/a
+OSS dump,7,110,NW,small,5.2,6,blackgum,n/a
+OSS dump,7,110,NW,large,5.4,21.4,red maple,n/a
+OSS dump,7,110,SE,small,3.4,5.9,blackgum,n/a
+OSS dump,7,110,SE,large,6.75,20.8,sourwood,n/a
+OSS dump,7,110,SW,small,5.7,6.1,blackgum,n/a
+OSS dump,7,110,SW,large,5,19.9,sourwood,n/a
+breakfield dump,1,180,NW,small,40,6.7,black locust,n/a
+breakfield dump,1,180,NW,large,2.4,31.2,black cherry,n/a
+breakfield dump,1,180,SW,small,8.8,6.5,ash,n/a
+breakfield dump,1,180,SW,large,7.4,38,ash,n/a
+breakfield dump,1,180,SE,small,7.2,9.1,flowering dogwood,n/a
+breakfield dump,1,180,SE,large,5.8,55.8,white ash,n/a
+breakfield dump,1,180,NE,small,15.5,6.9,red maple,n/a
+breakfield dump,1,180,NE,large,7,20.2,black cherry,n/a
+breakfield dump,2,130,NW,small,12.4,5,tree of heaven,n/a
+breakfield dump,2,130,NW,large,4,30.2,hackberry,n/a
+breakfield dump,2,130,SW,small,25,8.7,eastern white pine,n/a
+breakfield dump,2,130,SW,large,6.2,14.7,black oak,n/a
+breakfield dump,2,130,SE,small,27,7,red maple,n/a
+breakfield dump,2,130,SE,large,3.5,15.8,red maple,n/a
+breakfield dump,2,130,NE,small,13.6,8.7,tulip poplar,n/a
+breakfield dump,2,130,NE,large,6.3,67.8,tulip poplar,n/a
+breakfield dump,3,60,NW,small,11.7,6,flowering dogwood,n/a
+breakfield dump,3,60,NW,large,3.9,66.5,hackberry,n/a
+breakfield dump,3,60,SW,small,19.9,8.8,red maple,n/a
+breakfield dump,3,60,SW,large,7,24,winged elm,n/a
+breakfield dump,3,60,SE,small,12.5,6.7,black locust,n/a
+breakfield dump,3,60,SE,large,11.4,11,black locust,n/a
+breakfield dump,3,60,NE,small,4,6.5,hackberry,n/a
+breakfield dump,3,60,NE,large,14.1,29.2,tree of heaven,n/a
+breakfield dump,4,n/a,NW,small,11.4,9.6,tulip poplar,n/a
+breakfield dump,4,n/a,NW,large,4.8,16,tulip poplar,n/a
+breakfield dump,4,n/a,SW,small,8.4,7.3,tulip poplar,n/a
+breakfield dump,4,n/a,SW,large,4.5,13.8,sourwood,n/a
+breakfield dump,4,n/a,SE,small,2.7,5,ash,n/a
+breakfield dump,4,n/a,SE,large,2.7,37.9,tulip poplar,n/a
+breakfield dump,4,n/a,NE,small,12.8,9.4,black cherry,n/a
+breakfield dump,4,n/a,NE,large,4.2,58.5,tulip poplar,n/a
