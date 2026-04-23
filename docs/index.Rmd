@@ -82,6 +82,8 @@ tree_data %>%
 ################################################################################
 # Data Entry
 
+### This is what my data collection app looks like, including all of the measurements that are being recorded by the analyst. 
+
 ![](app_image.png){width="100%"}
 
 ################################################################################
